@@ -7,8 +7,6 @@ I am highly motivated to apply my knowledge to real-world projects and contribut
 
 - 🔭 I’m currently working on **Accenture**
 
-- 🌱 I’m currently learning **data analyst**
-
 - 💬 Ask me about **Data Collection, Preparation, Exploration, Visualization and Business Intelligence (BI)..**
 
 - 📫 How to reach me **lucas.carrera@gmail.com**
