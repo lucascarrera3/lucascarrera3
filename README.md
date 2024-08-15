@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Carrera</h1>
-<h3 align="center">A fresh data analyst and passionate librarian from Brazil</h3>
+<h3 align="center">I am a Data Analyst and Librarian, and I’m glad you’ve visited my GitHub profile! My education and experience in Library Science have allowed me to develop skills in logic, problem-solving, and analytical thinking, which directly connect with the IT field.
+
+As a Data Analyst, I can perform data collection, preparation, exploration, and visualization, propose solutions to business challenges, calculate Key Performance Indicators (KPIs), conduct statistical tests, and perform economic analyses, as well as present reports and results to clients. My work is supported by technologies like Python (and its main libraries: pandas, numpy, matplotlib, plotly, among others), MySQL, Tableau, and Excel.
+
+I am highly motivated to apply my knowledge to real-world projects and contribute to the success of data-driven initiatives.</h3>
 
 - 🔭 I’m currently working on **Accenture**
 
