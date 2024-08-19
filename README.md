@@ -11,7 +11,7 @@ I am highly motivated to apply my knowledge to real-world projects and contribut
 
 - 📫 How to reach me **lucas.carrera@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lucas-loureiro3/](https://www.linkedin.com/in/lucas-loureiro3/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/lucas-loureiro3/](https://www.linkedin.com/in/lucas-carrera3/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
